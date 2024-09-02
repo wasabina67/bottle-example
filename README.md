@@ -16,3 +16,5 @@ pipenv install
 ```bash
 python run.py
 ```
+
+Open http://localhost:8080/hello
